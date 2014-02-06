@@ -94,7 +94,6 @@ a {
 a:hover {
 	color:#346b7f;
 	text-decoration:none;
-	font-weight: bold;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
@@ -726,6 +725,13 @@ ul.footermenu li a {
 	-moz-transition:border linear 0.2s,box-shadow linear 0.2s;
 	-o-transition:border linear 0.2s,box-shadow linear 0.2s;
 	transition:border linear 0.2s,box-shadow linear 0.2s;
+}
+
+/* Clientes */
+
+td {
+	text-align: center;
+	padding: 21px;
 }
 
 /* =========================================================== */

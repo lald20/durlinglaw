@@ -335,6 +335,11 @@ header {
 ul {
 	list-style:none outside none;
 	margin:0;
+
+ul.bulleted {
+	list-style: square;
+}
+
 }
 .infophone {
 	text-align:right;

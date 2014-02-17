@@ -1,0 +1,14 @@
+begin:vcard
+version:3.0
+prodid:Microsoft-MacOutlook/14.3.9.131030
+UID:C28970A1-3363-4D8B-B981-3D105E860801
+fn;charset=utf-8:Ricardo Alejandro Durling Linares
+n;charset=utf-8:Durling Linares;Ricardo Alejandro;;;
+title;charset=utf-8:Socio
+org;charset=utf-8:Durling & Durling;
+adr;charset=utf-8;type=work;type=pref:;;Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH;Ciudad de Panama;;;República de Panamá
+label;charset=utf-8;type=work;type=pref:Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH\nCiudad de Panama\nRepública de Panamá
+tel;charset=utf-8;type=work:+5072638244
+tel;charset=utf-8;type=cell:+50766177458
+email;charset=utf-8;type=internet;type=pref;type=work:ricardo.durlingjr@durlinglaw.com
+end:vcard

@@ -1,0 +1,14 @@
+begin:vcard
+version:3.0
+prodid:Microsoft-MacOutlook/14.3.9.131030
+UID:441EB78A-BD7A-44FB-BEE3-1013F0617F53
+fn;charset=utf-8:Ivan Madriz Guevara
+n;charset=utf-8:Madriz Guevara;Ivan;;;
+title;charset=utf-8:Asociado
+org;charset=utf-8:Durling & Durling;
+adr;charset=utf-8;type=work;type=pref:;;Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH;Ciudad de Panamá;;;República de Panamá
+label;charset=utf-8;type=work;type=pref:Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH\nCiudad de Panamá\nRepública de Panamá
+tel;charset=utf-8;type=work:+5072638244
+tel;charset=utf-8;type=cell:+50766394252
+email;charset=utf-8;type=internet;type=pref;type=work:ivan.madriz@durlinglaw.com
+end:vcard

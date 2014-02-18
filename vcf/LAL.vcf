@@ -1,0 +1,14 @@
+begin:vcard
+version:3.0
+prodid:Microsoft-MacOutlook/14.3.9.131030
+UID:B4119801-15B4-4CCE-AA52-C610A226F191
+fn;charset=utf-8:Luis Alfonso  Lopez Durling
+n;charset=utf-8: Lopez Durling;Luis Alfonso;;;
+title;charset=utf-8:Asociado
+org;charset=utf-8:Durling & Durling;
+adr;charset=utf-8;type=work;type=pref:;;Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH;Ciudad de Panamá;;;República de Panamá
+label;charset=utf-8;type=work;type=pref:Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH\nCiudad de Panamá\nRepública de Panamá
+tel;charset=utf-8;type=work:+5072638244
+tel;charset=utf-8;type=cell:+50766140384
+email;charset=utf-8;type=internet;type=pref;type=work:luis.lopez@durlinglaw.com
+end:vcard

@@ -1,0 +1,15 @@
+begin:vcard
+version:3.0
+prodid:Microsoft-MacOutlook/14.3.9.131030
+UID:E614BE88-BCCA-4BFF-A3A8-39F8FCDA66CB
+fn;charset=utf-8:Circe I. Batista Ramírez
+n;charset=utf-8:Batista Ramírez;Circe I.;;;
+title;charset=utf-8:Asociada
+org;charset=utf-8:Durling & Durling;
+note;charset=utf-8:\n\n
+adr;charset=utf-8;type=work;type=pref:;;Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH;Ciudad de Panamá;;;República de Panamá
+label;charset=utf-8;type=work;type=pref:Calle 52 y Elvira Mendez\, Edificio Vallarino\, PH\nCiudad de Panamá\nRepública de Panamá
+tel;charset=utf-8;type=work:+5072638244
+tel;charset=utf-8;type=cell:+50764808399
+email;charset=utf-8;type=internet;type=pref;type=other:circe.batista@durlinglaw.com
+end:vcard

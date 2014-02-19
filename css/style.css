@@ -6,7 +6,7 @@
 }
 
 body.boxed {	
-	background-image: url(../img/bg/pic7.jpg);
+	background-image: url(../img/bg/panama2.jpg);
 	background-attachment: fixed;
 	background-position: 49% 50%;
 	background-repeat: no-repeat;
@@ -305,7 +305,7 @@ header {
 }
 .brandlogo {
 	float:left;
-	font-family: Cinzel Decorative;
+	font-family: 3Cinzel Decorative;
 	font-size:38px;
 	margin:36px 0 0;
 	padding:0;

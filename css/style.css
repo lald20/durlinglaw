@@ -1004,6 +1004,7 @@ a.prev span,a.next span {
 	color:#888;
 	padding:10px 20px 15px;
 	background:#f7f7f7;
+	height: 129px;
 }
 .thumbnail .caption span {
 }
@@ -2944,4 +2945,16 @@ font-family: 'Monsieur La Doulaise', cursive;
 	text-shadow:none;
 	display:inline-block;
 	color:#346b7f;
+}
+
+#redbox {
+	border: 1px solid; 
+	border-color: red;
+}
+
+.areas {
+	float: left;
+	position: relative;
+	display: inline-block;
+
 }

@@ -38,6 +38,16 @@ body.boxed div.body {
 
 #fotoindex {
 	float:center;
+	width: 100%;
+	height: auto;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
+    border:1px solid #021a40;
+}
+
+#luis {
+	height: 144px;
+	width: 218px;
 }
 
 .overlaybg {
